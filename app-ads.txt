@@ -5,6 +5,7 @@ unityads.unity3d.com, 18967042236906, DIRECT, 4b1f54ff8d336d21
 applovin.com, 1745822154, DIRECT, 5a864cdf0b2982b7
 ironsrc.com, 617849, DIRECT, 0bfd66d529a55807
 vungle.com, 5f0f6e91c5d06fffa2000272, DIRECT, 9c4d13a9b7f644979fa0d52c6f17f3a4
+vungle.com, 691c6c69f84dffcb57086d17, DIRECT
 pangle.io, 5030435, DIRECT, 9a6d580a6471f1c1
 chartboost.com,684f892f63d712db05a5de07, DIRECT
 premiumads.net, 21338, DIRECT
